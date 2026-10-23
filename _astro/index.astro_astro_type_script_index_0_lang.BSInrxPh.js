@@ -1,0 +1,1 @@
+import{A as e}from"./AbstractWebComponent.Ba5hhlQt.js";class o extends e{constructor(){let t={root:null,rootMargin:"0px",threshold:0};super(o,t)}}"customElements"in window&&customElements.define("Aviadrones.-hero",o);
